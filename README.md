@@ -1,8 +1,6 @@
 # Lab 7
 
-## Name
-
-### Jeffrey Thi
+## Name: Jeffrey Thi
 
 ## Check Your Understanding Questions
 
